@@ -6,4 +6,5 @@
 * [Lists](lists.md)
 * [Math formulas](math-formulas.md)
 * [Emoji](emoji.md)
+* [Code block](code-block.md)
 
