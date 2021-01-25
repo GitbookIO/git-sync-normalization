@@ -1,5 +1,16 @@
 # Code block
 
+### Example without tabs
+
+```ruby
+def greeting(name)
+  puts "Hello #{name}"
+end
+greeting("Anna")
+```
+
+### Example with tabs
+
 {% tabs %}
 {% tab title="Ruby" %}
 ```ruby
