@@ -5,4 +5,5 @@
 * [Images](images.md)
 * [Lists](lists.md)
 * [Math formulas](math-formulas.md)
+* [Emoji](emoji.md)
 
