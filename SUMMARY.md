@@ -9,4 +9,5 @@
 * [Code block](code-block.md)
 * [Quote](quote.md)
 * [Tables](tables.md)
+* [Hints](hints.md)
 
