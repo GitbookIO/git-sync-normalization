@@ -8,4 +8,5 @@
 * [Emoji](emoji.md)
 * [Code block](code-block.md)
 * [Quote](quote.md)
+* [Tables](tables.md)
 
