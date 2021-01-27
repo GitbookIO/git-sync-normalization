@@ -10,4 +10,5 @@
 * [Quote](quote.md)
 * [Tables](tables.md)
 * [Hints](hints.md)
+* [Page link](page-link.md)
 
