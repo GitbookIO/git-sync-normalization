@@ -11,4 +11,5 @@
 * [Tables](tables.md)
 * [Hints](hints.md)
 * [Page link](page-link.md)
+* [Tabs](tabs.md)
 
