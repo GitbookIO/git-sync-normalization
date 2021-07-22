@@ -13,4 +13,5 @@
 * [Page link](page-link.md)
 * [Tabs](tabs.md)
 * [Embeds](embeds.md)
+* [API Blocks](api-blocks.md)
 
