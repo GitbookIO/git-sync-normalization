@@ -15,3 +15,8 @@
 * [Embeds](embeds.md)
 * [API Blocks](api-blocks.md)
 
+## This is a group
+
+* [This is the first page in a group](this-is-a-group/this-is-the-first-page-in-a-group.md)
+* [This is the second page in a group](this-is-a-group/this-is-the-second-page-in-a-group.md)
+
