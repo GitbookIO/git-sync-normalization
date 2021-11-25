@@ -1,4 +1,3 @@
 # Emoji
 
-😀 
-
+:grinning:&#x20;
