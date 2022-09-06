@@ -40,3 +40,14 @@ greeting("Anna")
 ```
 {% endcode %}
 
+### JavaScript example
+
+{% code title="index.js" %}
+```javascript
+‌import * as React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+
+ReactDOM.render(<App />, window.document.getElementById('root'));
+```
+{% endcode %}
