@@ -42,7 +42,7 @@ greeting("Anna")
 
 ### JavaScript example
 
-{% code title="index.js" %}
+{% code title="index.js" overflow="wrap" lineNumbers="true" %}
 ```javascript
 ‌import * as React from 'react';
 import ReactDOM from 'react-dom';
