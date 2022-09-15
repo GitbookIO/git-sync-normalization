@@ -14,6 +14,7 @@
 * [Tabs](tabs.md)
 * [Embeds](embeds.md)
 * [API Blocks](api-blocks.md)
+* [Drawing](drawing.md)
 * [Content reference](content-reference.md)
 
 ## This is a group
