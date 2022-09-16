@@ -13,3 +13,7 @@ This is an inline image <img src=".gitbook/assets/sofianna-customer-avatar.png" 
 ### Block image
 
 <figure><img src=".gitbook/assets/sofianna-customer-avatar.png" alt="This is ALT text."><figcaption><p>This is a caption of a block image</p></figcaption></figure>
+
+This is using markdown markup:
+
+![This is ALT text.](.gitbook/assets/sofianna-customer-avatar.png "This is a caption of a block image")
